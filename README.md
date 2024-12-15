@@ -9,3 +9,6 @@ Strength:</br>
 
 Weakness:</br>
 ⦁ The voucher code is a random string generated so it is not a real code since this is just a prototype and we have not integrate with any e-commerce applcations yet.
+
+Here is the mobile app link: https://drive.google.com/file/d/1UnPBp-YlqU52dAmR2DuNathJ59Zbqwys/view?usp=sharing </br>
+Any suggestions are welcome and appreciated ;)
