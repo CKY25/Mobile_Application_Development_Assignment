@@ -1,3 +1,4 @@
+# WellSpring
 This is my BAIT2073 Mobile Application Development Assignment. This is a step tracking application that will track how many steps you have taken with achievement feature, calculate Body Mass Index (BMI) features and a mini game feature where you can rare different pets, feed them, play with them or even make them wear clothes. With every 100 steps taken, you can earn 1 in-game coin and coins are used to buy foods, toys, clothes, different pets or even voucher codes!</br>
 
 Strength:</br>
